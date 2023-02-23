@@ -45,7 +45,7 @@ In order to successfully install the app, the following device requirements must
 
 ## How to Play
 Here is a step-by-step guide on how to play the game:
-* 1. Launch the app.
+* 1) Launch the app.
 
 After the game is installed, locate it on your device and launch it. This can typically be done by tapping the game's icon on your home screen or in the app drawer. Once the game is launched, you will be taken to the main menu.
 
