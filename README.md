@@ -45,7 +45,7 @@ In order to successfully install the app, the following device requirements must
 
 ## How to Play
 Here is a step-by-step guide on how to play the game:
-* Launch the app.
+* 1. Launch the app.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220977112-ca9a53f0-f1bc-4e71-b7a7-7121d46d5643.jpg">
@@ -54,26 +54,42 @@ Here is a step-by-step guide on how to play the game:
 
 <!-- * When the camera opens from within the app, point it towards a vertical plane (such as a wall or door) where you want to place the dartboard. Note that you must be in a well-lit place, and you may need to allow permission for the app to use your device's camera.
 * Keep pointing towards the vertical plane until you see a view similar to the image below. You should also see a black placement indicator on the plane where the dartboard will be placed. -->
-
+* 2. Instructions.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38396435/220977112-ca9a53f0-f1bc-4e71-b7a7-7121d46d5643.jpg">
+  <img src="https://user-images.githubusercontent.com/38396435/220978624-178da5af-762a-408b-b454-0c86b04d8135.jpg">
 </p>
+
 
 <!-- * Tap once on the screen. You should now see the dartboard projected onto the plane, along with a dart in front of it. If the dartboard is not in the right orientation, you can drag two fingers on the screen to rotate it as needed.
 * You are now ready to start playing darts. You should see the points value on the top left, the number of darts you have left on the top right, and the distance between you and the board on the bottom left. -->
-
+* 3. Headlights on/off.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38396435/220977112-ca9a53f0-f1bc-4e71-b7a7-7121d46d5643.jpg">
+  <img src="https://user-images.githubusercontent.com/38396435/220978676-8a1191a7-1dfc-4239-a1fc-75c79322b16c.jpg">
 </p>
+
 
 <!-- * To throw a dart, tap the dart once. The dart will be thrown towards the board, and once it collides with the board, you will see the points you scored from that dart pop up and the total points value getting updated.
 * If you are too close to throw, a `Too close` message will appear when you try to throw a dart. 
 * If your dart throw scores more than the required remaining points, you will see the `Too much` message pop up.
 * Once you win or lose the game, you will see the end game screen. Here, you can see your score and the highest score. You can press `Play Again`  to start a new game. -->
-
+* 4. Backlights on/off.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/38396435/220977112-ca9a53f0-f1bc-4e71-b7a7-7121d46d5643.jpg">
+  <img src="https://user-images.githubusercontent.com/38396435/220978990-e2997ba6-8390-40ab-ae77-ca6c5f79c6e8.png">
 </p>
+
+
+* 5. Tyre marks.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38396435/220978776-e59838b0-80af-496f-9484-81a0a0bf924a.png">
+</p>
+
+
+
+* 6. Smoke.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38396435/220978836-4bfcddcb-b2d5-489f-9419-6578242c98db.png">
+</p>
+
 
 ## Demo Video
 
