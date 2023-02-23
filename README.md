@@ -9,7 +9,7 @@ Introducing _**Turbo**_, a **Car game with AR** for mobile devices created using
 3. Click drop down near `Open` button
 4. Click `Add project from disk`
 5. Then navigate to place where you cloned the repo
-6. Click and open the project foder "Mora dARts" (not Mora-dARTs folder)
+6. Click and open the project foder "Mora dARts" (not turbo folder)
 7. You will only see the changes once you go to `Assets` section in Unity and click `Scenes` folder. -->
 
 <!-- ## Build the App
@@ -26,22 +26,10 @@ In order to successfully install the app, the following device requirements must
 * At least 100 MB of free space on the device.
 
 <!-- ## Installation Steps
-* To download the Mora Darts APK onto your Android device, begin by visiting https://github.com/Avishka-Shamendra/Mora-dARts/releases/download/v1.0.0/Mora-dARts-v1.0.0.apk.
+* To download the Mora Darts APK onto your Android device, begin by visiting .
 * Once the APK has been downloaded, proceed to install the application on your mobile device. 
 * Keep in mind that a security warning may be displayed on your phone due to the app not being downloaded from the Play Store. In this case, simply acknowledge the warning and continue with the installation process. -->
 
-<!-- ## Game Rules
-* The game starts with the player having 501 points and 50 darts.
-* Each dart is thrown one at a time.
-* The player's points will be reduced based on where the dart hits the board. The relevant point values for different areas are indicated in the below figure.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57411348/220306392-830bd28f-ffc7-4a2f-b9d2-912a0b2098f9.png">
-</p>
-
-* The player must be at least 0.8m away from the dartboard for their points to count.
-* If the player reaches exactly 0 points with the given number of darts, they win the game, and the score will be the remaining number of darts. (By "exactly 0," we mean that if the remaining points are 30, any points from a dart throw above 30 will be disregarded.)
-* If the player does not reach exactly 0 points with the given number of darts, they lose the game. -->
 
 ## How to Play
 Here is a step-by-step guide on how to play the game:
@@ -81,7 +69,7 @@ Here is a step-by-step guide on how to play the game:
 
 
 7. Tyre marks.
-* This is shown when you go in a certain speed and the brake is pressed.
+* This is shown when you go in a certain speed and the brake is pressed. And also when the car goes in a certain speed and you turn left/right the car.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978776-e59838b0-80af-496f-9484-81a0a0bf924a.png">
 </p>
