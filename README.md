@@ -53,40 +53,43 @@ Here is a step-by-step guide on how to play the game:
 </p>
 
 
-<!-- * When the camera opens from within the app, point it towards a vertical plane (such as a wall or door) where you want to place the dartboard. Note that you must be in a well-lit place, and you may need to allow permission for the app to use your device's camera.
-* Keep pointing towards the vertical plane until you see a view similar to the image below. You should also see a black placement indicator on the plane where the dartboard will be placed. -->
-* 2. Instructions.
+2. Instructions.
+* When you click the help button in main menu, you can see the instructions menu.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978624-178da5af-762a-408b-b454-0c86b04d8135.jpg">
 </p>
 
+3. Superimpose the car.
+* Once you have found a suitable surface, point your device's camera at the surface and move it around until the game detects the plane. The game will superimpose the virtual RC car onto the surface, allowing you to control it using your device's touchscreen.
 
-<!-- * Tap once on the screen. You should now see the dartboard projected onto the plane, along with a dart in front of it. If the dartboard is not in the right orientation, you can drag two fingers on the screen to rotate it as needed.
-* You are now ready to start playing darts. You should see the points value on the top left, the number of darts you have left on the top right, and the distance between you and the board on the bottom left. -->
-* 3. Headlights on/off.
+
+4. Control the car.
+* To control the virtual RC car, use the on-screen buttons. The forward and reverse buttons will make the car move in the respective directions, while the left and right buttons will make the car turn. Use these controls to navigate through the real world.
+
+5. Headlights on/off.
+* If you want to turn the headlights on/off, you can do it by pressing the light button on the UI.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978676-8a1191a7-1dfc-4239-a1fc-75c79322b16c.jpg">
 </p>
 
 
-<!-- * To throw a dart, tap the dart once. The dart will be thrown towards the board, and once it collides with the board, you will see the points you scored from that dart pop up and the total points value getting updated.
-* If you are too close to throw, a `Too close` message will appear when you try to throw a dart. 
-* If your dart throw scores more than the required remaining points, you will see the `Too much` message pop up.
-* Once you win or lose the game, you will see the end game screen. Here, you can see your score and the highest score. You can press `Play Again`  to start a new game. -->
-* 4. Backlights on/off.
+6. Backlights on/off.
+* When you press the brake, brake lights will work. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978990-e2997ba6-8390-40ab-ae77-ca6c5f79c6e8.png">
 </p>
 
 
-* 5. Tyre marks.
+7. Tyre marks.
+* This is shown when you go in a certain speed and the brake is pressed.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978776-e59838b0-80af-496f-9484-81a0a0bf924a.png">
 </p>
 
 
 
-* 6. Smoke.
+8. Smoke.
+* This is shown when you go in a certain speed and the brake is pressed.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38396435/220978836-4bfcddcb-b2d5-489f-9419-6578242c98db.png">
 </p>
