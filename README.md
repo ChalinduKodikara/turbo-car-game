@@ -48,7 +48,7 @@ Here is a step-by-step guide on how to play the game:
 </p>
 
 3. Superimpose the car.
-* Once you have found a suitable surface, point your device's camera at the surface and move it around until the game detects the plane. The game will superimpose the virtual RC car onto the surface, allowing you to control it using your device's touchscreen.
+* Once you have found a suitable surface, point your device's camera at the surface and move it around until the game detects the plane. The game will superimpose the virtual RC car onto the surface when you click the placement indicator, allowing you to control it using your device's touchscreen.
 
 
 4. Control the car.
